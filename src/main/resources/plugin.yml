@@ -1,0 +1,6 @@
+name: Housing
+version: '${project.version}'
+main: me.zoon20x.housing.Housing
+api-version: 1.13
+depend: [CrossServerStorage]
+authors: [Zoon20X]
